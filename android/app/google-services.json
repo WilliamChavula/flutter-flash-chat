@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "425991135893",
+    "firebase_url": "https://flash-chat-6ac20.firebaseio.com",
+    "project_id": "flash-chat-6ac20",
+    "storage_bucket": "flash-chat-6ac20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425991135893:android:7169e16b6d66277e5a719c",
+        "android_client_info": {
+          "package_name": "co.williamroosevelt.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425991135893-8i27hjpq2mcrfv7s9b5d60jehvkj2a2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTz679lCVINbD0_UKIEhrHs9PSKwt54jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425991135893-8i27hjpq2mcrfv7s9b5d60jehvkj2a2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
